@@ -19,8 +19,7 @@ export const SplashContainer = styled.SafeAreaView`
 export const SplashLogo = styled.Image``;
 
 export const Container = styled.SafeAreaView`
-  padding: 20px;
-  padding-bottom: 0px;
   flex: 1;
   padding-top: ${statusBarHeight}px;
+  background-color: #ffffff;
 `;
